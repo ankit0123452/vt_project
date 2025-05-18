@@ -60,11 +60,6 @@ const Footer = () => {
                     By Anup Kumar Tiwari
                 </div>
             </div>
-
-            {/* Build Version */}
-            <div className="text-center mt-4 text-xs text-gray-400">
-                Build a589d1c (8760)
-            </div>
         </footer>
     );
 };
