@@ -57,7 +57,7 @@ const Footer = () => {
             {/* Welcome Box */}
             <div className="mt-10 flex justify-center">
                 <div className="bg-transparent rounded-md px-4 py-2 text-cyan-600 font-bold text-lg shadow">
-                    By Anup Kumar Tiwari
+                    By Ankit Regmi
                 </div>
             </div>
         </footer>
